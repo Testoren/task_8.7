@@ -1,0 +1,33 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+.hidden {
+    display: none;
+}
+
+body {
+    background-color: rgb(56, 56, 56);
+}
+
+.form {
+    margin-inline: auto;
+    padding: 5px;
+    width: auto;
+}
+
+
+.card {
+    transition: 0.5s;
+
+}
+
+.card:hover {
+    box-shadow: 0px 0px 20px rgb(217, 255, 0);
+}
+
+.card-header {
+    text-transform: uppercase;
+    font-weight: 700;
+}
