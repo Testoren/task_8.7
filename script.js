@@ -119,7 +119,7 @@ document.getElementById('btnPlay').addEventListener('click', function () {
                         break;
 
                     case 1:
-                        answerPhrase = `Вы забыли, какое число у вас в голове?\n\u{1F92A}`
+                        answerPhrase = `Вы забыли, какое число?\n\u{1F92A}`
                         break;
 
                     case 2:
@@ -176,7 +176,7 @@ document.getElementById('btnPlay').addEventListener('click', function () {
                         break;
 
                     case 1:
-                        answerPhrase = `Вы забыли, какое число у вас в голове?\n\u{1F92A}`
+                        answerPhrase = `Вы забыли, какое число?\n\u{1F92A}`
                         break;
 
                     case 2:
